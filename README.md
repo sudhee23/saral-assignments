@@ -8,9 +8,9 @@ This repository contains my completed assignments as part of the Web Development
 
 You can access the hosted assignments using the links below:
 
-- 🔹 [Assignment 1 – HTML & CSS Basics](https://yourusername.github.io/web-dev-assignments/assignment1/index.html)
-- 🔹 [Assignment 2 – JavaScript Basics](https://yourusername.github.io/web-dev-assignments/assignment2/interactive.html)
-- 🔹 [Assignment 3 – CSS Layouts with Flexbox](https://yourusername.github.io/web-dev-assignments/assignment3/flexbox.html)
+- 🔹 [Assignment 1 – HTML & CSS Basics](https://sudhee23.github.io/saral-assignments/Assignment-1/index.html)
+- 🔹 [Assignment 2 – JavaScript Basics](https://sudhee23.github.io/saral-assignments/Assignment-2/interactive.html)
+- 🔹 [Assignment 3 – CSS Layouts with Flexbox](https://sudhee23.github.io/saral-assignments/Assignment-3/flexbox.html)
 
 ## 📁 Folder Structure
 
